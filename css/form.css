@@ -1,0 +1,59 @@
+.event-type{
+    margin-top: 20px;
+    margin-bottom: 15px ;
+    margin-left: 10%;
+}
+.event-title{
+    margin-bottom: 15px ;
+}
+.title{
+    margin-left: 10%;
+}
+.event-dates{
+    margin-bottom: 15px ;
+}
+.from{
+    margin-left: 9.2%;
+}
+.post-date{
+    margin-bottom: 15px ;
+}
+.post{
+    margin-left: 8.9%;
+}
+.checkbox{
+    line-height: 20pt;
+    margin-bottom: 15px ;
+}
+body{
+    padding: 20px 0px 20px 200px;
+    font-family: cursive;
+    border: 1px solid grey;
+    margin: 15%;
+}
+input[type=text]{
+    width: 50%;
+}
+select{
+    width: 30%;
+}
+input[type=date]{
+    width:12%;
+}
+.b1, .b2{
+    margin-top: 10px;
+    padding: 10px 24px;
+    transition-duration: .4s;
+    text-align: center;
+}
+.b1:hover, .b2:hover{
+    background-color: khaki;
+    color: white;
+    cursor: pointer;
+}
+.b1{
+    margin-left: 25%;
+}
+.b2{
+    margin-left: 10px;
+}
